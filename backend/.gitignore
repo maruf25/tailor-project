@@ -1,0 +1,6 @@
+node_modules
+tailor_project.sql
+
+# local env files
+.env*.local
+.env*
